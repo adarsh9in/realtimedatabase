@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116030794311",
+    "firebase_url": "https://smart-weather-station1-default-rtdb.firebaseio.com",
+    "project_id": "smart-weather-station1",
+    "storage_bucket": "smart-weather-station1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116030794311:android:8605adeb7a6b5b5049df62",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116030794311-liv86r45vpg8uocoboguslv2hf3pj8te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKRn_ClqncdmJEwhSpbs81EXvNfyQ81QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116030794311-liv86r45vpg8uocoboguslv2hf3pj8te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
